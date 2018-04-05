@@ -25,7 +25,27 @@ body {
 
 header {
     border: 1px solid goldenrod;
-
 }
+
+/* Nav Bar styling */
+.navBar {
+    display: table;
+}
+.navBar li  {
+    color: purple;
+    list-style: none; 
+}
+
+.navBar a {
+    color: purple;
+    text-decoration: none;
+}
+
+.horizontal-list li {
+    display: inline-block;
+    padding: 8px;
+    margin: 0 auto;
+}
+
 
 
