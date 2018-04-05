@@ -46,6 +46,20 @@ header {
     padding: 8px;
     margin: 0 auto;
 }
+/* Class Disable */
 
+.month-list a {
+    color: purple;
+}
+
+
+.disabled {
+    text-decoration: gray;
+    color: grey;
+}
+
+.active {
+    color: yellow;
+}
 
 
